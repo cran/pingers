@@ -1,0 +1,16 @@
+9fdec101263b18923d45109011106d7c *DESCRIPTION
+b1a69ac9cecea3a7cbd81885d28aefe4 *LICENSE
+f6c6295a8d8ac87e69103a1421237800 *NAMESPACE
+7f2a39d6b527240528a996283ed0add2 *R/capture_logs.R
+16366afb9583a5f7605c1a16e7fe3e6a *R/capture_ping.R
+ee2466803d7bf4b694bbf4798a103115 *R/destinations.R
+70e7be75287e25c0bb78dd68020b8710 *R/heatmap.R
+e7e899fc0660c0d703cfda26a7ed57ff *R/shuffle.R
+d10861c1416ebabeba6162f90e7871ef *README.md
+ac807cb0608081faf8f3ff23ceb7f5c9 *man/capture_logs.Rd
+af9a2fb07671ca7f1069bb56a50a0b95 *man/figures/logo.png
+7d4d2d5e8071e6d4663af40c6e3ec000 *man/figures/pingers-icon.sketch
+7a4dc936f7ac2d99b1fe0f518af8b53f *man/get_destinations.Rd
+4f9463b80ad6884b40da61930b530e75 *man/ping_capture.Rd
+c08769428cd9c1f0234516455f82ba31 *man/pingers_heatmap.Rd
+f6d63ffbfbb2f4266181d0bdc310e0d7 *man/shuffle.Rd
